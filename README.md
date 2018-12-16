@@ -10,10 +10,4 @@
 
 ## Links
 - [Trello](https://trello.com/b/aVJIVljc/sep-ug14)
-
-## Directory Structure
-- `/src/`: Contains all the source code.
-- `/lib/`: Contains all external libraries that we use, including things such as
-  jUnit test for our testing framework.
-- `/doc/`: Contains all the code-relevant documentation.
-- `/tools/`: Contains tools that are generally useful, including clang-format.
+this is a group project that we were asked to implement a rescue robot using LeJOS - a Java programming environment for the Lego Mind- storms EV3 robots. 
